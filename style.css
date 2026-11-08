@@ -131,8 +131,9 @@ footer {
   margin: 8px 0 36px;
 }
 
+/* Amblem: kömürlerden doğan kurt (oyunun açılışındaki son kare); kenarları sayfa zeminine karışır */
 .hero img {
-  width: min(320px, 72vw);
+  width: min(420px, 90vw);
   height: auto;
 }
 
