@@ -153,6 +153,18 @@ footer {
   margin-top: 0;
 }
 
+/* Apple'ın resmî rozeti, değiştirilmeden: en az 40 px yükseklik, çevresinde boşluk */
+.game .store {
+  display: inline-block;
+  margin: 4px 0 16px;
+  line-height: 0;
+}
+
+.game .store img {
+  height: 40px;
+  width: auto;
+}
+
 .game .links {
   display: flex;
   flex-wrap: wrap;
